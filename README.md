@@ -1,1 +1,1 @@
-# Generating_Resesrch_Paper_titles
+# Generating_Research_Paper_titles
